@@ -1,0 +1,25 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "learn-typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc ./src/index.ts ./src/indes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shusiwei/learn-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "shusiwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shusiwei/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/shusiwei/learn-typescript#readme",
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
+}
